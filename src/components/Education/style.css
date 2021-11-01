@@ -1,0 +1,19 @@
+.educationWrapper {
+  margin: 1rem 0 5rem;
+}
+
+.educationPragWrapper {
+  margin: 1rem;
+  font-family: "Arial Narrow", Arial, sans-serif;
+}
+
+.major {
+  font-size: 110%;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.university {
+  font-weight: 600;
+  margin: 1rem 0;
+}

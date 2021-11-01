@@ -1,0 +1,19 @@
+.workItem {
+  margin: 1rem;
+  font-family: "Arial Narrow", Arial, sans-serif;
+}
+
+.job {
+  font-size: 110%;
+  font-weight: bold;
+  margin: 1rem 0;
+}
+
+.date {
+  color: gray;
+  margin: 1rem 0;
+}
+
+.jobDesc {
+  margin: 1rem 0;
+}

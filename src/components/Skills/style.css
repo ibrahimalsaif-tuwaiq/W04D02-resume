@@ -1,0 +1,14 @@
+.skillsWrapper {
+  margin: 1rem 0 5rem;
+}
+
+.skillWrapper {
+  margin: 1rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.skillsList {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}

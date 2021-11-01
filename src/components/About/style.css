@@ -1,0 +1,35 @@
+.aboutWrapper {
+  margin: 1rem 0 5rem;
+}
+
+.title {
+  margin: 2rem 1rem 1rem;
+  display: flex;
+  color: gray;
+}
+
+.title-icon {
+  font-size: 160%;
+  margin-right: 1rem;
+}
+
+.title h2 {
+  font-size: 140%;
+  font-weight: 550;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.paragraph {
+  margin: 1rem;
+  font-family: "Arial Narrow", Arial, sans-serif;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.resumeLine {
+  opacity: 0.3;
+  width: 96%;
+}
