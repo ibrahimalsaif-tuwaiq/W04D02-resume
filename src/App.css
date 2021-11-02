@@ -1,17 +1,24 @@
-*  {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    background-color: #f0f0f0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: #f0f0f0;
 }
 
 .wrapper {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (max-width: 700px) {
+  .wrapper {
+    flex-direction: column;
+    width: 95%;
+  }
 }
