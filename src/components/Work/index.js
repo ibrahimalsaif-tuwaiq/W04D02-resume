@@ -25,8 +25,8 @@ const Work = () => {
       <div className="flex">
         <hr className="resumeLine" />
       </div>
-      {work.map((work) => {
-        return <WorkItem work={work} />;
+      {work.map((work, index) => {
+        return <WorkItem work={work} key={index}/>;
       })}
     </div>
   );
