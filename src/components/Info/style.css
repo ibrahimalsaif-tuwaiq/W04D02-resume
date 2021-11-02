@@ -34,30 +34,30 @@
 }
 
 .line {
-    opacity: 0.3;
+  opacity: 0.3;
 }
 
 .info-icon {
-  height: 0.8rem;
+  font-size: 100%;
   color: gray;
   margin: 0.2rem 0.1rem;
 }
 
 .info-parag {
   font-size: 90%;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   margin: 0.2rem 0.5rem;
 }
 
 .github {
-    margin: 1rem 0;
-    height: 2.2rem;
-    color: black;
+  margin: 1rem 0;
+  font-size: 210%;
+  color: black;
 }
 
-.github:hover{
-    cursor: pointer;
-    color: rgb(16, 16, 90);
+.github:hover {
+  cursor: pointer;
+  color: rgb(16, 16, 90);
 }
 
 @media screen and (max-width: 700px) {
